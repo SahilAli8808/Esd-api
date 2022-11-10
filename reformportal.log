@@ -1,0 +1,494 @@
+2022-11-07 18:21:44.035  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 21292 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:21:44.035  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:21:44.195  INFO 21292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:21:44.196  INFO 21292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:21:44.196  INFO 21292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:21:44.207  INFO 21292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:21:44.207  INFO 21292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 170 ms
+2022-11-07 18:21:44.253  INFO 21292 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:21:44.266  INFO 21292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:21:44.287  INFO 21292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:21:44.287  INFO 21292 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:21:44.288  INFO 21292 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:21:44.291  INFO 21292 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:21:44.361  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.35 seconds (JVM running for 497.863)
+2022-11-07 18:21:44.363  INFO 21292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:22:13.001  INFO 21292 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2022-11-07 18:22:13.031  INFO 21292 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:22:13.077  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 21292 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:22:13.077  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:22:13.211  INFO 21292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:22:13.211  INFO 21292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:22:13.211  INFO 21292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:22:13.222  INFO 21292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:22:13.222  INFO 21292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 144 ms
+2022-11-07 18:22:13.262  INFO 21292 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:22:13.276  INFO 21292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:22:13.293  INFO 21292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:22:13.294  INFO 21292 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:22:13.294  INFO 21292 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:22:13.297  INFO 21292 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:22:13.329  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.269 seconds (JVM running for 526.832)
+2022-11-07 18:22:13.330  INFO 21292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:23:06.208  INFO 21292 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:23:06.236  INFO 21292 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:23:06.287  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 21292 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:23:06.287  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:23:06.421  INFO 21292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:23:06.422  INFO 21292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:23:06.422  INFO 21292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:23:06.434  INFO 21292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:23:06.434  INFO 21292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 146 ms
+2022-11-07 18:23:06.472  INFO 21292 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:23:06.483  INFO 21292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:23:06.501  INFO 21292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:23:06.502  INFO 21292 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:23:06.502  INFO 21292 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:23:06.504  INFO 21292 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:23:06.543  INFO 21292 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.272 seconds (JVM running for 580.046)
+2022-11-07 18:23:06.544  INFO 21292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:23:08.583  INFO 21292 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-07 18:23:08.589  INFO 21292 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:24:10.501  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 25980 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:24:10.503  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:24:10.543  INFO 25980 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:24:10.543  INFO 25980 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:24:11.193  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:24:11.200  INFO 25980 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:24:11.200  INFO 25980 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:24:11.245  INFO 25980 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:24:11.245  INFO 25980 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 702 ms
+2022-11-07 18:24:11.468  INFO 25980 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:24:11.531  INFO 25980 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:24:11.618  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:24:11.619  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:24:11.631  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:24:11.647  INFO 25980 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:24:11.769  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 1.481 seconds (JVM running for 1.876)
+2022-11-07 18:25:18.716  INFO 11572 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 11572 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:25:18.717  INFO 11572 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:25:18.756  INFO 11572 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:25:18.756  INFO 11572 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:25:19.494  INFO 11572 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:25:19.501  INFO 11572 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:25:19.502  INFO 11572 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:25:19.555  INFO 11572 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:25:19.555  INFO 11572 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 798 ms
+2022-11-07 18:25:19.813  INFO 11572 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:25:19.874  WARN 11572 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-11-07 18:25:19.954  WARN 11572 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8181 is already in use
+2022-11-07 18:25:19.958  INFO 11572 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:25:19.966  INFO 11572 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-07 18:25:19.981 ERROR 11572 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8181 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8181 or configure this application to listen on another port.
+
+2022-11-07 18:25:27.066  INFO 25980 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:25:27.083  INFO 25980 --- [Thread-4] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:25:27.129  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 25980 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:25:27.129  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:25:27.323  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8182 (http)
+2022-11-07 18:25:27.325  INFO 25980 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:25:27.325  INFO 25980 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:25:27.340  INFO 25980 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:25:27.340  INFO 25980 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 209 ms
+2022-11-07 18:25:27.395  INFO 25980 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:25:27.414  INFO 25980 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:25:27.436  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8182 (http) with context path ''
+2022-11-07 18:25:27.436  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:25:27.437  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:25:27.439  INFO 25980 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:25:27.499  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.388 seconds (JVM running for 77.605)
+2022-11-07 18:25:27.501  INFO 25980 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:25:32.317  INFO 17132 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 17132 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:25:32.319  INFO 17132 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:25:32.360  INFO 17132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:25:32.360  INFO 17132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:25:33.016  INFO 17132 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8182 (http)
+2022-11-07 18:25:33.025  INFO 17132 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:25:33.025  INFO 17132 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:25:33.068  INFO 17132 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:25:33.068  INFO 17132 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 707 ms
+2022-11-07 18:25:33.284  INFO 17132 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:25:33.342  WARN 17132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-11-07 18:25:33.417  WARN 17132 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8182 is already in use
+2022-11-07 18:25:33.422  INFO 17132 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:25:33.430  INFO 17132 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-07 18:25:33.442 ERROR 17132 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8182 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8182 or configure this application to listen on another port.
+
+2022-11-07 18:25:49.090  INFO 25980 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:25:49.120  INFO 25980 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:25:49.169  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 25980 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:25:49.169  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:25:49.322  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:25:49.323  INFO 25980 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:25:49.323  INFO 25980 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:25:49.333  INFO 25980 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:25:49.333  INFO 25980 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 162 ms
+2022-11-07 18:25:49.374  INFO 25980 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:25:49.392  INFO 25980 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:25:49.411  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:25:49.412  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:25:49.412  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:25:49.415  INFO 25980 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:25:49.478  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.325 seconds (JVM running for 99.584)
+2022-11-07 18:25:49.480  INFO 25980 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:25:57.896  INFO 25980 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2022-11-07 18:25:57.912  INFO 25980 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:25:57.955  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 25980 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:25:57.955  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:25:58.098  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:25:58.099  INFO 25980 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:25:58.099  INFO 25980 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:25:58.111  INFO 25980 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:25:58.111  INFO 25980 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 154 ms
+2022-11-07 18:25:58.151  INFO 25980 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:25:58.163  INFO 25980 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:25:58.183  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:25:58.184  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:25:58.185  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:25:58.188  INFO 25980 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:25:58.224  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.283 seconds (JVM running for 108.33)
+2022-11-07 18:25:58.225  INFO 25980 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:26:11.724  INFO 25980 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (6 additions, 0 deletions, 0 modifications)
+2022-11-07 18:26:11.741  INFO 25980 --- [Thread-15] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:26:11.842  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 25980 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:26:11.843  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:26:12.066  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:26:12.067  INFO 25980 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:26:12.068  INFO 25980 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:26:12.085  INFO 25980 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:26:12.085  INFO 25980 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 239 ms
+2022-11-07 18:26:12.145  INFO 25980 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:26:12.170  INFO 25980 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:26:12.213  INFO 25980 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:26:12.214  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:26:12.215  INFO 25980 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:26:12.218  INFO 25980 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:26:12.291  INFO 25980 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.49 seconds (JVM running for 122.397)
+2022-11-07 18:26:12.293  INFO 25980 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:26:20.249  INFO 18092 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 18092 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:26:20.250  INFO 18092 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:26:20.289  INFO 18092 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:26:20.289  INFO 18092 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:26:20.944  INFO 18092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:26:20.950  INFO 18092 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:26:20.950  INFO 18092 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:26:20.994  INFO 18092 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:26:20.994  INFO 18092 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 704 ms
+2022-11-07 18:26:21.212  INFO 18092 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:26:21.274  WARN 18092 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-11-07 18:26:21.346  WARN 18092 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8180 is already in use
+2022-11-07 18:26:21.352  INFO 18092 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:26:21.362  INFO 18092 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-07 18:26:21.374 ERROR 18092 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8180 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8180 or configure this application to listen on another port.
+
+2022-11-07 18:26:26.574  INFO 25980 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-07 18:26:26.580  INFO 25980 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:27:18.702  INFO 11356 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 11356 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:27:18.704  INFO 11356 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:27:18.742  INFO 11356 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:27:18.742  INFO 11356 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:27:19.409  INFO 11356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:27:19.415  INFO 11356 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:27:19.416  INFO 11356 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:27:19.457  INFO 11356 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:27:19.458  INFO 11356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 716 ms
+2022-11-07 18:27:19.682  INFO 11356 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:27:19.742  INFO 11356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:27:19.823  INFO 11356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:27:19.824  INFO 11356 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:27:19.837  INFO 11356 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:27:19.853  INFO 11356 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:27:19.996  INFO 11356 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 1.513 seconds (JVM running for 1.927)
+2022-11-07 18:29:29.840  INFO 11356 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:29:29.859  INFO 11356 --- [Thread-4] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:29:29.913  INFO 11356 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 11356 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:29:29.913  INFO 11356 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:29:30.083  INFO 11356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:29:30.084  INFO 11356 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:29:30.084  INFO 11356 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:29:30.095  INFO 11356 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:29:30.095  INFO 11356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 179 ms
+2022-11-07 18:29:30.149  INFO 11356 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:29:30.164  INFO 11356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:29:30.186  INFO 11356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:29:30.187  INFO 11356 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:29:30.187  INFO 11356 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:29:30.189  INFO 11356 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:29:30.252  INFO 11356 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.36 seconds (JVM running for 132.184)
+2022-11-07 18:29:30.254  INFO 11356 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:29:57.877  INFO 11356 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-07 18:29:57.884  INFO 11356 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:30:30.547  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:30:30.549  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:30:30.588  INFO 30864 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:30:30.588  INFO 30864 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:30:31.256  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:30:31.263  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:30:31.263  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:30:31.317  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:30:31.317  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 728 ms
+2022-11-07 18:30:31.541  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:30:31.601  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:30:31.682  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:30:31.682  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:30:31.696  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:30:31.711  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:30:31.837  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 1.507 seconds (JVM running for 1.939)
+2022-11-07 18:32:21.517  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (0 additions, 7 deletions, 0 modifications)
+2022-11-07 18:32:21.537  INFO 30864 --- [Thread-4] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:32:21.648  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:32:21.649  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:32:22.276  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:32:22.277  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:32:22.278  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:32:22.316  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:32:22.316  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 658 ms
+2022-11-07 18:32:22.533  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:32:22.631  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:32:22.717  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:32:22.718  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:32:22.719  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:32:22.725  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:32:22.858  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 1.257 seconds (JVM running for 112.96)
+2022-11-07 18:32:22.862  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:32:24.551  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (7 additions, 0 deletions, 0 modifications)
+2022-11-07 18:32:24.567  INFO 30864 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:32:24.655  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:32:24.656  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:32:25.111  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:32:25.113  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:32:25.113  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:32:25.147  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:32:25.148  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 487 ms
+2022-11-07 18:32:25.268  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:32:25.301  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:32:25.359  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:32:25.361  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:32:25.362  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:32:25.368  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:32:25.531  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.918 seconds (JVM running for 115.633)
+2022-11-07 18:32:25.535  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:33:49.674  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (0 additions, 1 deletion, 6 modifications)
+2022-11-07 18:33:49.688  INFO 30864 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:33:49.773  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:33:49.774  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:33:50.181  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:33:50.183  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:33:50.183  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:33:50.208  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:33:50.209  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 431 ms
+2022-11-07 18:33:50.413  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:33:50.472  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:33:50.525  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:33:50.527  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:33:50.529  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:33:50.535  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:33:50.642  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.906 seconds (JVM running for 200.744)
+2022-11-07 18:33:50.643  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:33:51.936  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2022-11-07 18:33:51.951  INFO 30864 --- [Thread-15] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:33:52.052  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:33:52.053  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:33:52.470  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:33:52.472  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:33:52.473  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:33:52.508  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:33:52.508  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 452 ms
+2022-11-07 18:33:52.628  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:33:52.664  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:33:52.710  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:33:52.711  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:33:52.712  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:33:52.718  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:33:52.867  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.86 seconds (JVM running for 202.969)
+2022-11-07 18:33:52.870  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:35:39.330  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (0 additions, 0 deletions, 7 modifications)
+2022-11-07 18:35:39.357  INFO 30864 --- [Thread-19] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:35:39.418  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:35:39.419  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:35:39.576  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8180 (http)
+2022-11-07 18:35:39.577  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:35:39.577  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:35:39.586  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:35:39.586  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 166 ms
+2022-11-07 18:35:39.627  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:35:39.645  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:35:39.661  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8180 (http) with context path ''
+2022-11-07 18:35:39.662  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:35:39.662  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:35:39.664  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:35:39.722  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.322 seconds (JVM running for 309.824)
+2022-11-07 18:35:39.723  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:35:52.715  INFO 34900 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 34900 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:35:52.716  INFO 34900 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:35:52.756  INFO 34900 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:35:52.756  INFO 34900 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:35:53.218  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:35:53.223  INFO 30864 --- [Thread-23] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:35:53.275  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:35:53.276  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:35:53.442  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:35:53.443  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:35:53.443  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:35:53.456  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:35:53.456  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 179 ms
+2022-11-07 18:35:53.514  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:35:53.528  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:35:53.532  INFO 34900 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:35:53.542  INFO 34900 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:35:53.542  INFO 34900 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:35:53.553  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:35:53.554  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:35:53.554  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:35:53.557  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:35:53.603  INFO 34900 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:35:53.604  INFO 34900 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 847 ms
+2022-11-07 18:35:53.620  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.367 seconds (JVM running for 323.723)
+2022-11-07 18:35:53.621  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:35:53.893  INFO 34900 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:35:53.982  WARN 34900 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-11-07 18:35:54.069  WARN 34900 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8181 is already in use
+2022-11-07 18:35:54.073  INFO 34900 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:35:54.083  INFO 34900 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-07 18:35:54.094 ERROR 34900 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8181 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8181 or configure this application to listen on another port.
+
+2022-11-07 18:36:08.094  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:36:08.103  INFO 30864 --- [Thread-27] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:36:08.149  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:36:08.149  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:36:08.311  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-07 18:36:08.311  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:36:08.312  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:36:08.324  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:36:08.325  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 174 ms
+2022-11-07 18:36:08.368  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:36:08.380  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:36:08.399  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-07 18:36:08.400  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:36:08.400  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:36:08.404  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:36:08.462  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.329 seconds (JVM running for 338.564)
+2022-11-07 18:36:08.464  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:36:16.637  INFO 32032 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 32032 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:36:16.638  INFO 32032 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:36:16.677  INFO 32032 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:36:16.677  INFO 32032 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:36:17.361  INFO 32032 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-07 18:36:17.368  INFO 32032 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:36:17.368  INFO 32032 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:36:17.414  INFO 32032 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:36:17.414  INFO 32032 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 736 ms
+2022-11-07 18:36:17.648  INFO 32032 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:36:17.703  WARN 32032 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-11-07 18:36:17.777  WARN 32032 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2022-11-07 18:36:17.781  INFO 32032 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:36:17.789  INFO 32032 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-07 18:36:17.801 ERROR 32032 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-11-07 18:36:52.247  INFO 30864 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:36:52.259  INFO 30864 --- [Thread-31] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:36:52.307  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 30864 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:36:52.307  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:36:52.466  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:36:52.466  INFO 30864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:36:52.466  INFO 30864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:36:52.480  INFO 30864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:36:52.480  INFO 30864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 171 ms
+2022-11-07 18:36:52.522  INFO 30864 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:36:52.534  INFO 30864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:36:52.558  INFO 30864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:36:52.559  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:36:52.560  INFO 30864 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:36:52.561  INFO 30864 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:36:52.621  INFO 30864 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 0.328 seconds (JVM running for 382.723)
+2022-11-07 18:36:52.622  INFO 30864 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-11-07 18:37:13.344  INFO 30864 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-07 18:37:13.350  INFO 30864 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-07 18:37:52.570  INFO 10092 --- [restartedMain] com.code.develop.AngelApiApplication     : Starting AngelApiApplication using Java 16.0.1 on Lenovo with PID 10092 (D:\Projects\ESD Advance\api\esd-api\target\classes started by SAHIL in D:\Projects\ESD Advance\api\esd-api)
+2022-11-07 18:37:52.572  INFO 10092 --- [restartedMain] com.code.develop.AngelApiApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 18:37:52.610  INFO 10092 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 18:37:52.611  INFO 10092 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 18:37:53.293  INFO 10092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2022-11-07 18:37:53.301  INFO 10092 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-07 18:37:53.301  INFO 10092 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-07 18:37:53.353  INFO 10092 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-07 18:37:53.353  INFO 10092 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 742 ms
+2022-11-07 18:37:53.576  INFO 10092 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-07 18:37:53.634  INFO 10092 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-11-07 18:37:53.722  INFO 10092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2022-11-07 18:37:53.723  INFO 10092 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-07 18:37:53.736  INFO 10092 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-07 18:37:53.752  INFO 10092 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-07 18:37:53.894  INFO 10092 --- [restartedMain] com.code.develop.AngelApiApplication     : Started AngelApiApplication in 1.538 seconds (JVM running for 1.967)
+2022-11-07 18:41:49.997  INFO 10092 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-07 18:41:50.016  INFO 10092 --- [Thread-4] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
